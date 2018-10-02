@@ -1,1 +1,1 @@
-mrbid
+Github pages release of the Foxy Logarithmic Spiral, with one small, but very awesome hack ;) watch the center grow out !
