@@ -3,7 +3,7 @@
 * [Woxel](https://github.com/woxels) - First-person Voxel design software, it's like Magicavoxel and Goxel but resembles playing Minecraft and Minetest.
 
 ## 3D Games
-* [TuxPusher](https://github.com/mrbid/TuxPusher) - A Tux themed 3D coin pusher game.
+* [TuxPusher](https://github.com/mrbid/TuxPusher) - A Tux themed coin pusher game.
 * [PoryDrive](https://github.com/mrbid/PoryDrive-2.0) - A Seek && Destroy car game, a BMW E34 vs Porygon.
 * [AstroImpact](https://github.com/mrbid/AstroImpact) - A 3D online space game using UDP over IPv4.
 * [TuxScape](https://github.com/mrbid/TuxScape) - Inspired by RunEscape, themed around Tux!
