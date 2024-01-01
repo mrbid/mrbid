@@ -8,8 +8,13 @@ test
 ### Various 3D
 test
 
+## Tensorflow Keras
+* [CSGO_TENSOR_TRIGGER](https://github.com/mrbid/CSGO_TENSOR_TRIGGER)
+* [QUAKE3_TENSOR_TRIGGER](https://github.com/mrbid/QUAKE3_TENSOR_TRIGGER)
+
 ## Audio
-test
+* [Borg ER-3](https://github.com/mrbid/Borg-ER-3)
+* [Borg ER-0](https://github.com/mrbid/Borg-ER-0)
 
 ## Repositories
 test
