@@ -2,15 +2,15 @@
 * [TFNN](https://github.com/TFNN) - Lightweight and portable neural networks written in C.
 * [Woxel](https://github.com/woxels) - First-person Voxel design software, it's like Magicavoxel and Goxel but resembles playing Minecraft and Minetest.
 
-## Games
-* [TuxPusher](https://github.com/mrbid/TuxPusher) - A coin
-* [PoryDrive](https://github.com/mrbid/PoryDrive-2.0)
-* [AstroImpact](https://github.com/mrbid/AstroImpact)
-* [TuxScape](https://github.com/mrbid/TuxScape)
-* [Tuxocide](https://github.com/mrbid/Tuxocide)
-* [SeriousShooter](https://github.com/mrbid/SeriousShooter)
-* [VoxelPaint](https://github.com/mrbid/VoxelPaint)
-* [VoxelPaintPro](https://github.com/mrbid/VoxelPaintPro)
+## 3D Games
+* [TuxPusher](https://github.com/mrbid/TuxPusher) - A Tux themed 3D coin pusher game.
+* [PoryDrive](https://github.com/mrbid/PoryDrive-2.0) - A Seek && Destroy car game, a BMW E34 vs Porygon.
+* [AstroImpact](https://github.com/mrbid/AstroImpact) - A 3D online space game using UDP over IPv4.
+* [TuxScape](https://github.com/mrbid/TuxScape) - Inspired by RunEscape, themed around Tux!
+* [Tuxocide](https://github.com/mrbid/Tuxocide) - An Antarctic war between Tux and Aliens.
+* [SeriousShooter](https://github.com/mrbid/SeriousShooter) - A Serious Sam clone.
+* [VoxelPaint](https://github.com/mrbid/VoxelPaint) - Paint in 3D using textured Voxels.
+* [VoxelPaintPro](https://github.com/mrbid/VoxelPaintPro) - Paint in 3D using solid shaded Voxels.
 
 ## Tensorflow Keras
 * [CSGO_TENSOR_TRIGGER](https://github.com/mrbid/CSGO_TENSOR_TRIGGER)
