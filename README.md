@@ -12,7 +12,7 @@ test
 * [CSGO_TENSOR_TRIGGER](https://github.com/mrbid/CSGO_TENSOR_TRIGGER)
 * [QUAKE3_TENSOR_TRIGGER](https://github.com/mrbid/QUAKE3_TENSOR_TRIGGER)
 
-## Audio
+## Audio/Tone Synthesis
 * [Borg ER-3](https://github.com/mrbid/Borg-ER-3)
 * [Borg ER-0](https://github.com/mrbid/Borg-ER-0)
 
@@ -20,4 +20,6 @@ test
 test
 
 ## Gists
-test
+* [AtomicBench](https://gist.github.com/mrbid/a33aa35b4f57ddc6812f351e11bb9349) - A performance based benchmark of atomic vs non-atomic increment operations.
+* [IsAtomic](https://gist.github.com/mrbid/3040f54eb6942ed53daa044a9c055dbb) - A test to see if the default variable type on the executing CPU is atomic or not.
+* https://gist.github.com/mrbid
