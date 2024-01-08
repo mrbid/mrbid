@@ -30,4 +30,5 @@
 ## Socials
 * [Medium](https://james-william-fletcher.medium.com/)
 * [Snapcraft](https://snapcraft.io/publisher/voxdsp)
+* [Archive.org](https://archive.org/details/@mrbid)
 * [WebGL](https://github.com/mrbid/mrbid.github.io/blob/main/README.md)
