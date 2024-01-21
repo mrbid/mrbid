@@ -1,6 +1,7 @@
 ## Organisations
 * [TFNN](https://github.com/TFNN) - Lightweight and portable neural networks written in C.
 * [Woxel](https://github.com/woxels) - First-person Voxel design software, it's like Magicavoxel or Goxel but with controls akin to playing Minecraft.
+* [VertexColor](https://github.com/VertexColor) - Explaining how to use Vertex Colors in 3D rendering and the benefits.
 
 ## 3D Games
 * [VoxelPaint](https://github.com/mrbid/VoxelPaint) - Paint in 3D using textured Voxels.
