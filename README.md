@@ -28,14 +28,6 @@
 * [Random Bench](https://gist.github.com/mrbid/310bebaa9b0b5fb1bc47a3b5c7915231) - Favorite random functions and benchmarks.
 * [View All Gists](https://gist.github.com/mrbid)
 
-## Socials
-* [Medium](https://james-william-fletcher.medium.com/)
-* [Snapcraft](https://snapcraft.io/publisher/voxdsp)
-* [Gamejolt](https://gamejolt.com/@mrbid/games)
-* [Itch.io](https://pushergames.itch.io/)
-* [Archive](https://archive.org/details/@mrbid)
-* [WebGL](https://github.com/mrbid/mrbid.github.io/blob/main/README.md)
-
 <details>
   <summary><h2>Socials</h2></summary>
   <ul>
