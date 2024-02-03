@@ -27,7 +27,7 @@
 * [IsAtomic](https://gist.github.com/mrbid/3040f54eb6942ed53daa044a9c055dbb) - Test to see if the default variable type on the executing CPU is atomic or not.
 * [Random Bench](https://gist.github.com/mrbid/310bebaa9b0b5fb1bc47a3b5c7915231) - Favorite random functions and benchmarks.
 * [View All Gists](https://gist.github.com/mrbid)
-* 
+
 <details>
   <summary><h2>Socials</h2></summary>
   <ul>
