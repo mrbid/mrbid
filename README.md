@@ -28,8 +28,9 @@
 * [Random Bench](https://gist.github.com/mrbid/310bebaa9b0b5fb1bc47a3b5c7915231) - Favorite random functions and benchmarks.
 * [View All Gists](https://gist.github.com/mrbid)
 
+## Socials
 <details>
-  <summary><h2>Socials</h2></summary>
+  <summary>expand..</summary>
   <ul>
     <li><a href="https://james-william-fletcher.medium.com/">Medium</a></li>
     <li><a href="https://snapcraft.io/publisher/voxdsp">Snapcraft</a></li>
