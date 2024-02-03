@@ -39,6 +39,7 @@
 
 <details>
   <summary><b>New Menu</b></summary>
+  <br>
   <details>
     <summary><b>Organisations</b></summary>
     <ul>
