@@ -29,8 +29,27 @@
 * [View All Gists](https://gist.github.com/mrbid)
 
 ## Socials
+* [Medium](https://james-william-fletcher.medium.com/)
+* [Snapcraft](https://snapcraft.io/publisher/voxdsp)
+* [Gamejolt](https://gamejolt.com/@mrbid/games)
+* [Itch.io](https://pushergames.itch.io/)
+* [Archive](https://archive.org/details/@mrbid)
+* [WebGL](https://github.com/mrbid/mrbid.github.io/blob/main/README.md)
+
+
+## New Menu
 <details>
-  <summary>expand..</summary>
+  <summary><b>Gists</b></summary>
+  <ul>
+    <li><a href="https://gist.github.com/mrbid/e400fdd9ceaa8b3d83ba67eecd39cdb7">Real-Time Neural Style Transfer (NST)</a></li>
+    <li><a href="https://gist.github.com/mrbid/a33aa35b4f57ddc6812f351e11bb9349">AtomicBench</a></li>
+    <li><a href="https://gist.github.com/mrbid/3040f54eb6942ed53daa044a9c055dbb">IsAtomic</a></li>
+    <li><a href="https://gist.github.com/mrbid/310bebaa9b0b5fb1bc47a3b5c7915231">Random Bench</a></li>
+    <li><a href="https://gist.github.com/mrbid">View All Gists</a></li>
+  </ul>
+</details>
+<details>
+  <summary><b>Socials</b></summary>
   <ul>
     <li><a href="https://james-william-fletcher.medium.com/">Medium</a></li>
     <li><a href="https://snapcraft.io/publisher/voxdsp">Snapcraft</a></li>
