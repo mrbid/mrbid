@@ -35,3 +35,7 @@
 * [Itch.io](https://pushergames.itch.io/)
 * [Archive](https://archive.org/details/@mrbid)
 * [WebGL](https://github.com/mrbid/mrbid.github.io/blob/main/README.md)
+
+<details>
+  <summary><h1>Socials</h1></summary>
+</details>
