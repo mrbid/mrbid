@@ -38,7 +38,7 @@
 
 
 <details>
-  <summary><small>hidden</small></summary>
+  <summary>+</summary>
   <br>
   <details>
     <summary><b>Organisations</b></summary>
