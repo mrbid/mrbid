@@ -39,6 +39,20 @@
 
 ## New Menu
 <details>
+  <summary><b>Organisations</b></summary>
+  <ul>
+    <li><a href="https://github.com/TFNN">TFNN</a></li>
+    <li><a href="https://github.com/woxels">Woxel</a></li>
+    <li><a href="https://github.com/VertexColor">VertexColor</a></li>
+  </ul>
+</details>
+<details>
+  <summary><b>3D Games</b></summary>
+  <ul>
+    <li><a href="">aaa</a></li>
+  </ul>
+</details>
+<details>
   <summary><b>Tensorflow Keras</b></summary>
   <ul>
     <li><a href="https://github.com/mrbid/CSGO_TENSOR_TRIGGER">CSGO_TENSOR_TRIGGER</a></li>
