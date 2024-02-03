@@ -39,6 +39,20 @@
 
 ## New Menu
 <details>
+  <summary><b>Tensorflow Keras</b></summary>
+  <ul>
+    <li><a href="https://github.com/mrbid/CSGO_TENSOR_TRIGGER">CSGO_TENSOR_TRIGGER</a></li>
+    <li><a href="https://github.com/mrbid/QUAKE3_TENSOR_TRIGGER">QUAKE3_TENSOR_TRIGGER</a></li>
+  </ul>
+</details>
+<details>
+  <summary><b>Audio/Tone Synthesis</b></summary>
+  <ul>
+    <li><a href="https://github.com/mrbid/Borg-ER-3">Borg ER-3</a></li>
+    <li><a href="https://github.com/mrbid/Borg-ER-0">Borg ER-0</a></li>
+  </ul>
+</details>
+<details>
   <summary><b>Gists</b></summary>
   <ul>
     <li><a href="https://gist.github.com/mrbid/e400fdd9ceaa8b3d83ba67eecd39cdb7">Real-Time Neural Style Transfer (NST)</a></li>
