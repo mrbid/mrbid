@@ -38,7 +38,7 @@
 
 
 <details>
-  <summary><b>New Menu</b></summary>
+  <summary><font size=0.01>hidden</font></summary>
   <br>
   <details>
     <summary><b>Organisations</b></summary>
