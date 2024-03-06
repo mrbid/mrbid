@@ -34,4 +34,3 @@
 * [Gamejolt](https://gamejolt.com/@mrbid/games)
 * [Itch.io](https://pushergames.itch.io/)
 * [Archive](https://archive.org/details/@mrbid)
-* [WebGL](https://github.com/mrbid/mrbid.github.io/blob/main/README.md)
