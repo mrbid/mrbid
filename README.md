@@ -16,6 +16,7 @@
 ## Tensorflow Keras
 * [CSGO_TENSOR_TRIGGER](https://github.com/mrbid/CSGO_TENSOR_TRIGGER)
 * [QUAKE3_TENSOR_TRIGGER](https://github.com/mrbid/QUAKE3_TENSOR_TRIGGER)
+* [NEURAL_ANIMATION_TWEENING](https://github.com/mrbid/NEURAL_ANIMATION_TWEENING)
 
 ## Audio/Tone Synthesis
 * [Borg ER-3](https://github.com/mrbid/Borg-ER-3)
